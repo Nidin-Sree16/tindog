@@ -108,7 +108,7 @@ h3 {
 }
 /* testimonial-section */
 #testimonials {
-  background-color: #ef8172;
+  background-color: #ff4c68;
   font-family: "Montserrat";
   color: #fff;
   line-height: 1.5;
@@ -180,7 +180,7 @@ em {
 
 
 
-@media  (max-width: 768px) {
+@media  (max-width: 780px) {
 
   #title {
     text-align: center;
